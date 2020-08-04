@@ -1,0 +1,22 @@
+.container{
+  width:100%;
+  margin:0;
+  padding:0;
+}
+.hero{
+  width:100%;
+}
+.images{
+  width:100px;
+}
+aside.right{
+  text-align:center;
+  float:inherit;
+}
+aside.left{
+  float:inherit;
+}
+
+.map{
+  width:100%;
+}
